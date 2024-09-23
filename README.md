@@ -30,7 +30,10 @@ I'm a passionate beginner in *Computer and Communication Engineering (CCE)*, exp
 
 ## 🌍 Connect with Me
 - [GitHub](https://github.com/KowshikSD890)
-- [![Instagram Account]https://www.instagram.com/roy.kowshik9x/profilecard/?igsh=MWx1Z2poMTk2YmdqOQ==
+- [LinkedIn](https://linkedin.com/in/Kowshik_Shil)
+
+
+
 
 
 Thanks for visiting my profile!
