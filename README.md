@@ -25,12 +25,12 @@ I'm a passionate beginner in *Computer and Communication Engineering (CCE)*, exp
 - Collaborating on innovative tech solutions
 
 ## 🚀 Projects
-- Basic Calculator in C++
-- LED Control System with Arduino
-- Mini Chat Application in Python (beginner)
+- Basic Calculator in C
+- Loading....
 
 ## 🌍 Connect with Me
 - [GitHub](https://github.com/KowshikSD890)
-- [LinkedIn](https://linkedin.com/in/KowshikShil)
+- [![Instagram Account]https://www.instagram.com/roy.kowshik9x/profilecard/?igsh=MWx1Z2poMTk2YmdqOQ==
+
 
 Thanks for visiting my profile!
