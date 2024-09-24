@@ -15,8 +15,7 @@ I'm a passionate beginner in *Computer and Communication Engineering (CCE)*, exp
 ## 🔧 Skills
 - *Programming Languages*: C, C++, Python (beginner level)
 - *Tools*: Git/GitHub, Visual Studio Code, MATLAB (basic)
-- *Networking Basics*: TCP/IP, OSI Model, Network Protocols
-- *Hardware*: Arduino, Raspberry Pi (beginner)
+
 
 ## 👀 Looking Forward To
 - Deepening my understanding of embedded systems
