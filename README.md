@@ -8,13 +8,11 @@ I'm a passionate beginner in *Computer and Communication Engineering (CCE)*, exp
 
 ## 🌱 Currently Learning
 - Basics of Programming (C/C++, Python, Java)
-- Digital Logic Design
-- Fundamentals of Data Structures and Algorithms
-- Computer Networks and Communication Systems
+- Fundamentals of Data Structures and Algorithmss
 
 ## 🔧 Skills
 - *Programming Languages*: C, C++, Python (beginner level)
-- *Tools*: Git/GitHub, Visual Studio Code, MATLAB (basic)
+- *Tools*: Git/GitHub, Visual Studio Code
 
 
 ## 👀 Looking Forward To
